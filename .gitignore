@@ -1,0 +1,18 @@
+# C++ build files
+*.exe
+*.o
+*.obj
+*.out
+
+# Build folders
+build/
+Debug/
+Release/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+
+# Editor files
+.vscode/
