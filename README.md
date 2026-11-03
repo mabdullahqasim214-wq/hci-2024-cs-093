@@ -1,2 +1,11 @@
-# hci-2024-cs-093
-HCI &amp; Computer Graphics lab assignments, OpenGL programs, Figma wireframes, and practical exercises.
+## Student Information
+Name: Muhammad Abdullah
+Registration Number: 2024-CS-093
+Course: HCI & Computer Graphics
+
+## Development Tools
+- C++
+- OpenGL
+- GLFW
+- Visual Studio Code
+- Figma
